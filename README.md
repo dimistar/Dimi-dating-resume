@@ -1,5 +1,3 @@
-CNAME
-mydatingresume.com
 <html lang="en">
 <head>
     <meta charset="UTF-8">
